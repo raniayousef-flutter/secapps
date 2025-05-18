@@ -1,0 +1,47 @@
+name: secapps
+description: A new Flutter project.
+
+environment:
+  sdk: '^3.7.2'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1
+  image_picker: ^1.0.4
+  cloud_firestore: ^4.15.4
+  flutter_facebook_auth: ^6.0.2
+  google_sign_in: ^6.2.1
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.0
+  firebase_storage: ^11.6.7
+  path: ^1.8.3
+  uuid: ^4.2.2
+  file_picker: ^8.0.7
+  permission_handler: ^11.0.1
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/email.png
+    - assets/location.png
+    - assets/facebook.png
+    - assets/google.png
+    - assets/background.jpg
+    - assets/header_bg.jpg
+    - assets/seller_banner.jpg
+    - assets/pants.jpg
+    - assets/seta.jpg
+    - assets/jacket.jpg
+    - assets/tshirt.jpg
+    - assets/shirt.jpg
+    - assets/underwear.png
+    - assets/icons/menu_icon.png
+    - assets/icons/favorite_icon.png
+    
+
+

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1014110738387",
+    "project_id": "join-1d4a2",
+    "storage_bucket": "join-1d4a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014110738387:android:d7bbf0814489ce67efc126",
+        "android_client_info": {
+          "package_name": "com.example.secapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014110738387-apfm96omfh50tkt3c51pk73bqsqtjglh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGKWkyrYEofX5i1DHQpFMxW2ir8_Gnaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014110738387-apfm96omfh50tkt3c51pk73bqsqtjglh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014110738387-4gtccge1sh5qc14cgu8cevc9a74b6e4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secapps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
